@@ -1,2 +1,3 @@
 # hello-world
-test 
+this is the first step of Github, I'm starting a brand new coding line.
+
